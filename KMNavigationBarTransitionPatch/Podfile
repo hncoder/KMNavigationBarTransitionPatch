@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+target 'KMNavigationBarTransitionPatch' do
+pod 'KMNavigationBarTransition'
+end
